@@ -14,4 +14,3 @@ Prepare to be captivated by a symphony of numbers, visualizations, and meaningfu
 Embark on this exhilarating journey with us as we decipher the global landscape of happiness, inspiring a world where well-being is not just an aspiration but a tangible reality. Welcome to the `Happiness Analysis` repository, where data illuminates the path to a brighter, happier world for all.
 
 
-![World Map](https://example.com/world_map.png)
